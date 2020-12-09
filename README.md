@@ -2,7 +2,7 @@
 
 Playable: https://deonmartinez.github.io/HerionePlus/
 
-Referances
+Referances:
 
 
 Nystrom - https://gameprogrammingpatterns.com/state.html#finite-state-machines-to-the-rescue
